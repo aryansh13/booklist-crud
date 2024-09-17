@@ -28,4 +28,4 @@ This project is a web-based application for managing a list of books and their a
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/aryansh13/booklist-crud.git
-   cd booklist-website
+   cd booklist-crud
